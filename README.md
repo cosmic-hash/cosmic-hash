@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**cosmic-hash/cosmic-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Backend + AI Engineer** who loves building things that think — not just run.  
+From shipping **RAG systems used by millions** to crafting intelligent assistants and data-driven insights, I enjoy working at the intersection of **AI**, **backend systems**, and **real-world engineering problems**.
 
-Here are some ideas to get you started:
+### 🔭 Currently Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Cisco AI Engineer Assistant**  
+  An LLM-powered co-pilot that helps network engineers navigate configurations, intents, and topologies faster and more accurately.
+
+- **Crash Pattern Insights — NHTSA Dataset**  
+  Mining national highway crash data to uncover meaningful patterns, trends, and visual insights.
+
+- **Strengthening My Engineering Core**  
+  Actively improving **Data Structures & Algorithms** ([LeetCode](https://leetcode.com/u/Sai_Gautham_Ghanta/)) and **System Design** fundamentals.
