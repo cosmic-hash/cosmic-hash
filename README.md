@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=3FB950&center=true&vCenter=true&width=500&lines=Available+to+Work+%F0%9F%9F%A2;Brentwood%2C+California+%F0%9F%93%8D;MS+CS+%40+CU+Boulder+%7C+GPA+4.0%2F4.0" alt="Subtitle SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=3FB950&center=true&vCenter=true&width=520&lines=Available+to+Work+%F0%9F%9F%A2;3%2B+years+experience+%7C+MS+CS+%40+CU+Boulder;Scalable+systems+%2B+AI+%7C+AI-native+builder" alt="Subtitle SVG" />
 
 <br/><br/>
 
@@ -15,6 +15,78 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saigautham01@gmail.com)
 
 </div>
+
+## About
+
+**Backend + AI engineer** in Brentwood, California — available to work.
+
+**3+ years** of professional experience · **MS CS @ CU Boulder** · Focus: **scalable systems + AI**
+
+I build production systems at the intersection of backend engineering and AI — from **RAG platforms serving 2M+ users** to LLM agents, observability pipelines and cloud-native services. **AI-native builder**: I use AI technologies end-to-end to design, ship and iterate on anything faster — day-to-day coding with **Claude** and **Cursor**.
+
+**Roles:** Cisco Extern (CU Boulder) · finish'd · Kore.ai · Express Stores
+
+---
+
+## 💼 Work Experience
+
+<details open>
+<summary><b>🏢 Cisco Systems — AI Engineer Extern</b> &nbsp;|&nbsp; CU Boulder × Cisco &nbsp;|&nbsp; 2025</summary>
+<br/>
+
+- LLM-powered co-pilot for network engineers — configs, intents and topologies via LangChain and MCP
+- Built agent workflows that help engineers navigate complex network environments faster
+
+`LangChain` `MCP` `Python` `LLMs`
+
+</details>
+
+<details open>
+<summary><b>🏢 finish'd, Inc. — Software Engineer Intern</b> &nbsp;|&nbsp; Denver, CO &nbsp;|&nbsp; May 2025 – Jun 2025</summary>
+<br/>
+
+- Built a scheduled change detection pipeline across 60 pages on GCP using LangChain, Cloud Run, Scheduler and Terraform → **80% less manual tracking** saving 6 hrs/week
+- Automated release publishing via LLM parsing and Firestore validation → **50% less curation**, **90% fewer feed mismatches**
+
+`LangChain` `GCP` `Terraform` `Firestore` `Cloud Run`
+
+</details>
+
+<details open>
+<summary><b>🏢 Kore.ai — Software Engineer</b> &nbsp;|&nbsp; Hyderabad, India &nbsp;|&nbsp; Jan 2024 – Jul 2024</summary>
+<br/>
+
+- Built production RAG search service using LangChain, LlamaIndex, Elasticsearch and MongoDB → **2M+ users**, **90% better answer quality**
+- Implemented hybrid BM25 + dense vector retrieval with analyzers, boosts and synonyms → **25% better top-k hit rate**
+- Fine-tuned embedding models and trained rerankers using Hugging Face Transformers → **40% better retrieval accuracy**
+
+`LangChain` `LlamaIndex` `Elasticsearch` `MongoDB` `Hugging Face`
+
+</details>
+
+<details open>
+<summary><b>🏢 Kore.ai — Associate Software Engineer</b> &nbsp;|&nbsp; Hyderabad, India &nbsp;|&nbsp; May 2022 – Dec 2023</summary>
+<br/>
+
+- Custom New Relic instrumentation across Python, Node.js, RabbitMQ, Redis and MongoDB → **85% faster debugging** (2 hrs → 20 mins)
+- Built distributed Node.js ETL pipeline with OAuth2.0 across Confluence, SharePoint, Zendesk and ServiceNow → **90% more searchable knowledge**
+- Automated GPU scaling on AWS using boto3 and Jenkins → **$50K/yr saved**
+- Designed and led intern onboarding program → **10% team productivity increase**
+
+`New Relic` `Node.js` `OAuth2.0` `AWS` `Jenkins` `RabbitMQ` `Redis`
+
+</details>
+
+<details open>
+<summary><b>🏢 Express Stores — Full Stack Software Engineer</b> &nbsp;|&nbsp; Gurgaon, India &nbsp;|&nbsp; Jul 2021 – Apr 2022</summary>
+<br/>
+
+- Built Django REST APIs with S3, Paytm and Zoho integrations and optimized PostgreSQL queries → **50% faster data retrieval**
+- Built POS screens in React and React Native with pagination, caching and skeleton loaders → **30% better dev velocity**, **15% higher conversion**
+
+`Django` `PostgreSQL` `React` `React Native` `S3`
+
+</details>
 
 ---
 
@@ -30,7 +102,7 @@
 | 🚀 | 🔍 | 💰 |
 |:---:|:---:|:---:|
 | **2M+ users** served by production RAG system | **85% faster** incident debugging | **$50K/yr** saved via GPU autoscaling |
-| **90%** improvement in answer quality | **240+ LeetCode** problems solved | **4.0 GPA** MS CS at CU Boulder |
+| **90%** improvement in answer quality | **240+ LeetCode** problems solved | **3+ years** professional experience |
 
 </div>
 
@@ -64,57 +136,6 @@ Full pipeline on NHTSA FARS 2023 — ML models, SHAP, association rules and a li
 </td>
 </tr>
 </table>
-
----
-
-## 💼 Work Experience
-
-<details>
-<summary><b>🏢 finish'd, Inc. — Software Engineer Intern</b> &nbsp;|&nbsp; Denver, CO &nbsp;|&nbsp; May 2025 – Jun 2025</summary>
-<br/>
-
-- Built a scheduled change detection pipeline across 60 pages on GCP using LangChain, Cloud Run, Scheduler and Terraform → **80% less manual tracking** saving 6 hrs/week
-- Automated release publishing via LLM parsing and Firestore validation → **50% less curation**, **90% fewer feed mismatches**
-
-`LangChain` `GCP` `Terraform` `Firestore` `Cloud Run`
-
-</details>
-
-<details>
-<summary><b>🏢 Kore.ai — Software Engineer</b> &nbsp;|&nbsp; Hyderabad, India &nbsp;|&nbsp; Jan 2024 – Jul 2024</summary>
-<br/>
-
-- Built production RAG search service using LangChain, LlamaIndex, Elasticsearch and MongoDB → **2M+ users**, **90% better answer quality**
-- Implemented hybrid BM25 + dense vector retrieval with analyzers, boosts and synonyms → **25% better top-k hit rate**
-- Fine-tuned embedding models and trained rerankers using Hugging Face Transformers → **40% better retrieval accuracy**
-
-`LangChain` `LlamaIndex` `Elasticsearch` `MongoDB` `Hugging Face`
-
-</details>
-
-<details>
-<summary><b>🏢 Kore.ai — Associate Software Engineer</b> &nbsp;|&nbsp; Hyderabad, India &nbsp;|&nbsp; May 2022 – Dec 2023</summary>
-<br/>
-
-- Custom New Relic instrumentation across Python, Node.js, RabbitMQ, Redis and MongoDB → **85% faster debugging** (2 hrs → 20 mins)
-- Built distributed Node.js ETL pipeline with OAuth2.0 across Confluence, SharePoint, Zendesk and ServiceNow → **90% more searchable knowledge**
-- Automated GPU scaling on AWS using boto3 and Jenkins → **$50K/yr saved**
-- Designed and led intern onboarding program → **10% team productivity increase**
-
-`New Relic` `Node.js` `OAuth2.0` `AWS` `Jenkins` `RabbitMQ` `Redis`
-
-</details>
-
-<details>
-<summary><b>🏢 Express Stores — Full Stack Software Engineer</b> &nbsp;|&nbsp; Gurgaon, India &nbsp;|&nbsp; Jul 2021 – Apr 2022</summary>
-<br/>
-
-- Built Django REST APIs with S3, Paytm and Zoho integrations and optimized PostgreSQL queries → **50% faster data retrieval**
-- Built POS screens in React and React Native with pagination, caching and skeleton loaders → **30% better dev velocity**, **15% higher conversion**
-
-`Django` `PostgreSQL` `React` `React Native` `S3`
-
-</details>
 
 ---
 
@@ -195,6 +216,11 @@ Multi-server MCP agent with Claude and Gemini clients connected to a custom arXi
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+**Daily dev (AI-assisted)**
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
 **Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -240,10 +266,10 @@ Multi-server MCP agent with Claude and Gemini clients connected to a custom arXi
 
 ## 🎓 Education
 
-| Degree | Institution | GPA | Year |
-|---|---|---|---|
-| MS in Computer Science | University of Colorado Boulder | 4.0 / 4.0 | 2024 – 2026 |
-| BE in Electronics and Communication Engineering | BITS Pilani | 3.5 / 4.0 | 2018 – 2022 |
+| Degree | Institution | Year |
+|---|---|---|
+| MS in Computer Science | University of Colorado Boulder | 2024 – 2026 |
+| BE in Electronics and Communication Engineering | BITS Pilani | 2018 – 2022 |
 
 ---
 
