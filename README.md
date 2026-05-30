@@ -18,7 +18,7 @@
 
 ## About
 
-**Backend + AI engineer** in Brentwood, California — available to work.
+**Backend + AI engineer** in San Francisco, California — available to work.
 
 **3+ years** of professional experience · **MS CS @ CU Boulder** · Focus: **scalable systems + AI**
 
