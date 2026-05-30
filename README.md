@@ -1,11 +1,11 @@
 <!-- Header with animated typing SVG -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sai+Gautham+%F0%9F%91%8B;Backend+%2B+AI+Engineer;Building+things+that+think%2C+not+just+run" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sai+Gautham+%F0%9F%91%8B;Backend+%2B+AI+Engineer;Building+things+that+think%2C+not+just+run" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=3FB950&center=true&vCenter=true&width=520&lines=Available+to+Work+%F0%9F%9F%A2;3%2B+years+experience+%7C+MS+CS+%40+CU+Boulder;Scalable+systems+%2B+AI+%7C+AI-native+builder" alt="Subtitle SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=3FB950&center=true&vCenter=true&width=620&lines=Available+to+Work+%F0%9F%9F%A2;3%2B+years+experience+%7C+MS+CS+%40+CU+Boulder;Scalable+systems+%2B+AI+%7C+AI-native+builder" alt="Subtitle SVG" />
 
 <br/><br/>
 
@@ -275,6 +275,6 @@ Multi-server MCP agent with Claude and Gemini clients connected to a custom arXi
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+build+something+great+together." alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+build+something+great+together." alt="Footer typing" />
 
 </div>
